@@ -1,0 +1,1 @@
+Developed a six-rotor agriculture drone capable of manual control, designed to lift up to 3 kg of payload. The drone is compatible with motor pumps for crop spraying and equipped for camera integration. 
